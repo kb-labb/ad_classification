@@ -1,0 +1,4 @@
+.vscode/
+images/
+annotation/
+*.parquet
